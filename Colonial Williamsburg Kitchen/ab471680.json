@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Artificial light from a hidden electric bulb streams in from the side door, creating a sense that it is really daytime outside.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/f209e2f9-5556-7fe9-7471-465c14fdbfd0",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:859.0431518554688,2741.65087890625,915.9251098632812,312.06298828125"
+      },
+      "id": "ab471680"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2a0de7bc"
+  }
+]
