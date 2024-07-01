@@ -82,5 +82,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "d6470cc2"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This piece of furniture, and the pewter dishes it displays, were likely far too elaborate to have existed in a kitchen like this, which was used by enslaved workers. Adding such elite pieces was typical of how later Americans romanticized the colonial era.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/f209e2f9-5556-7fe9-7471-465c14fdbfd0",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:5542.060546875,901.5316772460938,688.91357421875,1345.6821899414062"
+      },
+      "id": "ab471680"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "36252f0f"
   }
 ]
