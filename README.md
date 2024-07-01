@@ -17,7 +17,7 @@ Description of topic here.
 .ve-media https://purl.stanford.edu/qk312mn8275/iiif/manifest
 
 #Yale
-.ve-media https://manifests.collections.yale.edu/yuag/obj/43
+.ve-media https://manifests.collections.yale.edu/yuag/obj/43 seq=2
 
 #Getty
 .ve-media https://media.getty.edu/iiif/manifest/dd2bea90-6a8f-4250-afda-e2f660d4761f
