@@ -61,5 +61,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "fe51a617"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The centerpiece of the kitchen is the large hearth, where meals were cooked and water was heated. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/f209e2f9-5556-7fe9-7471-465c14fdbfd0",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3203.38818359375,1132.9775390625,1683.1005859375,984.6005859375"
+      },
+      "id": "ab471680"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d6470cc2"
   }
 ]
