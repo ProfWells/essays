@@ -1,2 +1,2 @@
-.veheader "Sample ARTHIST 354 Essay"
+Sample ARTHIST 354 Essay
 Juncture visual essays
