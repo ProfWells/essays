@@ -1,4 +1,5 @@
 .ve-header "Sample ARTHIST 354 Essay"
+Description of topic here. 
 
 #Art Institute of Chicago
 .ve-media https://api.artic.edu/api/v1/artworks/28560/manifest.json
