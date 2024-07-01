@@ -1,5 +1,8 @@
 .ve-header "Sample ARTHIST 354 Essay"
 
+#Art Institute of Chicago
+.ve-media https://api.artic.edu/api/v1/artworks/28560/manifest.json
+
 #Huntington
 .ve-media  https://hdl.huntington.org/iiif/info/p15150coll2/5550/manifest.json
 
