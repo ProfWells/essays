@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "3b5c3270"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "A miniature cat adds life to the image, as do the pair of boots, which suggest a human occupant.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/f209e2f9-5556-7fe9-7471-465c14fdbfd0",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1737.078369140625,2027.8548583984375,555.22802734375,386.5821533203125"
+      },
+      "id": "ab471680"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fe51a617"
   }
 ]
