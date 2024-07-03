@@ -82,5 +82,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "01371ce1"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The brown color of the sky is echoed in the boat, the figures, and even the sea, suggesting a general pall of low visibility, and contributing to the sense of poor weather.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/5dca7347-c6dc-24dd-d073-d705b9cdc575",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:5857.72412109375,756.40869140625,1592.509765625,1506.15283203125"
+      },
+      "id": "d8de6411"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "87136871"
   }
 ]
