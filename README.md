@@ -1,6 +1,26 @@
 .ve-header "Sample ARTHIST 354 Essay"
 Description of topic here. 
 
+#Wikimedia Commons
+.ve-media wc:Meister_der_Ikone_des_Erzengels_Michael_001_adjusted.jpg
+
+.ve-media wc:Mero_(Epinephelus_marginatus),_Madeira,_Portugal,_2019-05-31,_DD_24.jpg 
+
+.ve-media wc:Art_Tatum,_Vogue_Room_1948_(Gottlieb).jpg
+
+.ve-media wc:Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg
+
+.ve-media wc:Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg 
+
+#Internet Archive
+.ve-media https://iiif.archivelab.org/iiif/side-1_202303/manifest.json
+
+#JStor
+.ve-media jstor:community.15647260
+
+#Metropolitan Museum of Art
+.ve-media https://iiif.juncture-digital.org/met:10154/manifest.json 
+
 #Art Institute of Chicago
 .ve-media https://api.artic.edu/api/v1/artworks/28560/manifest.json
 
