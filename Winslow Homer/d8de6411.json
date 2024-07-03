@@ -61,5 +61,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "8f27301d"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Deep swells in the water suggest heavy going for the small boat.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/5dca7347-c6dc-24dd-d073-d705b9cdc575",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:352.1807861328125,3540.864501953125,1471.816650390625,2251.292724609375"
+      },
+      "id": "d8de6411"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "01371ce1"
   }
 ]
