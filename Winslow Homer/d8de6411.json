@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "a2c792d7"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Dim sails in the distance suggest that the fishermen are far from other boats, help, or civilization.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/5dca7347-c6dc-24dd-d073-d705b9cdc575",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:8129.0244140625,2373.018798828125,1689.357421875,809.651123046875"
+      },
+      "id": "d8de6411"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f22bf1de"
   }
 ]
