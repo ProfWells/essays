@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "f22bf1de"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This figure hangs precariously out of the boat.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/5dca7347-c6dc-24dd-d073-d705b9cdc575",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2226.395751953125,2081.556640625,1603.739501953125,2342.9423828125"
+      },
+      "id": "d8de6411"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8f27301d"
   }
 ]
