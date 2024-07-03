@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The fishermen's net is loaded with fish.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.artic.edu/iiif/2/5dca7347-c6dc-24dd-d073-d705b9cdc575",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:6114.01708984375,3406.30224609375,2633.41845703125,2054.0126953125"
+      },
+      "id": "d8de6411"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a2c792d7"
+  }
+]
