@@ -22,5 +22,5 @@ Homer's love of the sea has even been covered by the mainstream media, such as i
 .ve-video https://www.youtube.com/watch?v=0mCQuqrCVxw 
 
 [^1]: Paul J. Nicholson, "Winslow Homer, *The Herring Net,* 1885," *Occupational Medicine* 72, no. 1 (Jan 2022): 7-9.
-[^2]: H. Barbara Weinberg, [“Winslow Homer (1836–1910),”](http://www.metmuseum.org/toah/hd/homr/hd_homr.htm) in Heilbrunn Timeline of Art History, The Metropolitan Museum of Art, New York, October 2004. 
+[^2]: H. Barbara Weinberg, [“Winslow Homer (1836–1910),”](http://www.metmuseum.org/toah/hd/homr/hd_homr.htm) in *Heilbrunn Timeline of Art History*, The Metropolitan Museum of Art, New York, October 2004. 
 [^3]: Elizabeth Johns, *Winslow Homer: The Nature of Observation* (University of California Press, 2002).
