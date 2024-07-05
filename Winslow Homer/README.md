@@ -4,7 +4,7 @@
 
 #The Herring Net
 .ve-media https://api.artic.edu/api/v1/artworks/25865/manifest.json
-In *The Herring Net* Winslow Homer adds a number of details that create an ominous feeling, in which the fishermen seem to be battling a heavy catch alone in a heavy sea that about to become stormy.
+In ==*The Herring Net*=={Q20273499} Winslow Homer adds a number of details that create an ominous feeling, in which the fishermen seem to be battling a heavy catch alone in a heavy sea that about to become stormy.
 
 #Sounding Titles
 .ve-media wc:Winslow_Homer_-_The_Fog_Warning_-_Google_Art_Project.jpg left
