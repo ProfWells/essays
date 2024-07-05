@@ -15,11 +15,12 @@ Homer often titled his works to reference sounds at sea, such as the blast of a 
 #Scholarly Approaches
 .ve-media https://iiif.archivelab.org/iiif/shipwreckwinslow01unse/manifest.json left seq=2 no-caption
 .ve-media https://iiif.archivelab.org/iiif/winslowhomer0000wins/manifest.json right caption="A 1923 Catalogue" seq=2
-Kathleen Foster's *Shipwreck* is one of many works of scholarship that addresses Homer's fascination with work at sea. This 1923 catalogue of Homer's work includes many of the artist's seascapes, showing how well known he was for this material early on. As H. Barbara Weinberg points out in the Metropolitan Museum of Art's [Heilbrunn Timeline of Art History]( https://www.metmuseum.org/toah/hd/homr/hd_homr.htm) Homer was fascinated with not just the men who worked at sea but also the women who worked on shore "whom he depicted hauling and cleaning fish, mending nets, and, most poignantly, standing at the water’s edge, awaiting the return of their men." Other scholars, such as Elizabeth Johns, have seen Homer's seascapes as a window into the artist's psyche.[^2]
+Kathleen Foster's *Shipwreck* is one of many works of scholarship that addresses Homer's fascination with work at sea. This 1923 catalogue of Homer's work includes many of the artist's seascapes, showing how well known he was for this material early on. As H. Barbara Weinberg points out in the Metropolitan Museum of Art's [Heilbrunn Timeline of Art History]( https://www.metmuseum.org/toah/hd/homr/hd_homr.htm) Homer was fascinated with not just the men who worked at sea but also the women who worked on shore "whom he depicted hauling and cleaning fish, mending nets, and, most poignantly, standing at the water’s edge, awaiting the return of their men."[^2] Other scholars, such as Elizabeth Johns, have seen Homer's seascapes as a window into the artist's psyche.[^3]
 
 #Popular Media
 Homer's love of the sea has even been covered by the mainstream media, such as in this segment from PBS NewsHour.
 .ve-video https://www.youtube.com/watch?v=0mCQuqrCVxw 
 
 [^1]: Paul J. Nicholson, "Winslow Homer, *The Herring Net,* 1885," *Occupational Medicine* 72, no. 1 (Jan 2022): 7-9.
-[^2]: Elizabeth Johns, *Winslow Homer: The Nature of Observation* (University of California Press, 2002).
+[^2]: H. Barbara Weinberg, “Winslow Homer (1836–1910),” in [Heilbrunn Timeline of Art History](http://www.metmuseum.org/toah/hd/homr/hd_homr.htm). New York: The Metropolitan Museum of Art, October 2004. 
+[^3]: Elizabeth Johns, *Winslow Homer: The Nature of Observation* (University of California Press, 2002).
