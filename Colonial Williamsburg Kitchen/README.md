@@ -18,3 +18,5 @@ Sometimes Thorne's rooms were so homey and lifelike, they seemed less like histo
 #Thorne's First Rooms
 An earlier series of Thorne's miniature rooms is held at the Knoxville Museum of Art in Tennessee
 .ve-video https://www.youtube.com/watch?v=VEPgiY4Ao-w
+
+.ve-media https://api.artic.edu/api/v1/artworks/64479/manifest.json 
