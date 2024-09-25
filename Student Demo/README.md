@@ -6,4 +6,6 @@ Sample text
 
 .ve-media wc:After_the_Storm_1884_Frank_Weston_Benson.jpg
 
+.ve-media https://iiif.archivelab.org/iiif/indexofamericand0000unse/page/116/mode/2up/manifest.json 
+
 
