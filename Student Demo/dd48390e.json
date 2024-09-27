@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The presence of the model's clothes was scandalous!",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/dd48390e4119ba6083147356fbaf5610da964f1c5253ba6f1e8a8019021431c8",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1673.178466796875,2219.702392578125,1259.8310546875,1712.497802734375"
+      },
+      "id": "dd48390e"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d76e9751"
+  }
+]
