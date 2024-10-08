@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "249df201"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "adding text here",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/cda029ad3e649d68e5ac698a6335f573213a99ff6a4053c2def094dcdae02be5",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:28.065420150756836,201.3779296875,113.76519203186035,56.63201904296875"
+      },
+      "id": "cda029ad"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "39c0c673"
   }
 ]
