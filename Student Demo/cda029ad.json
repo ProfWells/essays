@@ -19,26 +19,5 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "5b5f83ae"
-  },
-  {
-    "type": "Annotation",
-    "body": [
-      {
-        "type": "TextualBody",
-        "value": "annotation",
-        "purpose": "commenting"
-      }
-    ],
-    "target": {
-      "source": "https://iiif-image.juncture-digital.org/iiif/2/cda029ad3e649d68e5ac698a6335f573213a99ff6a4053c2def094dcdae02be5",
-      "selector": {
-        "type": "FragmentSelector",
-        "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:337.96551513671875,50.629310607910156,71.12069702148438,100.70690155029297"
-      },
-      "id": "cda029ad"
-    },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "249df201"
   }
 ]
