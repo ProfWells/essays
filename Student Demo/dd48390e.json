@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "d76e9751"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "sculpture?",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/dd48390e4119ba6083147356fbaf5610da964f1c5253ba6f1e8a8019021431c8",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:759.3973999023438,349.3782653808594,773.6233520507812,1422.4686584472656"
+      },
+      "id": "dd48390e"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a6031a48"
   }
 ]
