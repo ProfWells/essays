@@ -11,9 +11,8 @@ Sample text
 
 .ve-media gh:HIPPO-FOOT/media/Campbells/campbells_6.webp caption="Andy Warhol, Campbell's Soup Cans, 1962"
 
-.ve-media https://ids.si.edu/ids/iiif/AAA-AAA_gruejohn_3683948
 
-.ve-media https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002kqp8/manifest
+
 
 
 
