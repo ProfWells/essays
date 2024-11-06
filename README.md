@@ -3,6 +3,7 @@ Description of topic here.
 
 .ve-iframe https://www.metmuseum.org/art/collection/search/10154 height=800px width=100% 
 
+.ve-media https://ids.si.edu/ids/manifest/CHSDM-C635AEB0E0F82-000001
 
 #Wikimedia Commons
 .ve-media wc:Meister_der_Ikone_des_Erzengels_Michael_001_adjusted.jpg
